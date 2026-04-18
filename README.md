@@ -178,15 +178,6 @@ Method B uses manual beam search since GPT-2's built-in `generate()` does not su
 
 ---
 
-## Hardware
-
-| Version | GPU Used | Epoch Time | Total Training |
-|---|---|---|---|
-| v1–v3 | T4 (15GB) | ~5 min | ~35 min |
-| v4 | H100 (80GB) | ~2 min | ~12 min |
-| Method B | H100 / RTX PRO 6000 | ~8 min | ~50 min |
-
----
 
 ## References
 
